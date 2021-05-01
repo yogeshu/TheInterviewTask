@@ -23,7 +23,7 @@ https://codepen.io/YOgesh31/pen/PoWrzNO
 link:
 using React: 
 
-https://codesandbox.io/s/dreamy-blackwell-njm38 -
+- https://codesandbox.io/s/dreamy-blackwell-njm38 -
 
 
 # The logic question
